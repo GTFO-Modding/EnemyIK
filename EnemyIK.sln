@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnemyIK", "EnemyIK\EnemyIK.csproj", "{813F4721-84B2-4611-8A5F-D8843DF0B1EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813F4721-84B2-4611-8A5F-D8843DF0B1EF}.Debug|x64.ActiveCfg = Debug|x64
+		{813F4721-84B2-4611-8A5F-D8843DF0B1EF}.Debug|x64.Build.0 = Debug|x64
+		{813F4721-84B2-4611-8A5F-D8843DF0B1EF}.Release|x64.ActiveCfg = Release|x64
+		{813F4721-84B2-4611-8A5F-D8843DF0B1EF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8338728C-E9A9-47BF-B096-A59654ED9C77}
+	EndGlobalSection
+EndGlobal
